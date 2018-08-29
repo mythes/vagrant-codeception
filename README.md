@@ -9,3 +9,6 @@ Execute Codeception tests on linux env
 1. `git clone <repo>` || download `Vagrantfile`
 2. execute `vagrant up` (run from context directory)
 3. execute `vagrant ssh` (connect to virtual machine)
+
+# Worning!!!
+Compatible for API/unit tests (without GUI)
